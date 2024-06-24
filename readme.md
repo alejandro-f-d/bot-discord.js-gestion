@@ -1,11 +1,11 @@
-#》 Proyecto: 
+# 》 Proyecto: 
 
 - Este proyecto consta de la realización de un bot para la gestión de un sistema de reservas y diversas funcionalidades en discord.
 - Este bot trabaja mediante [Slash Commands](https://support.discord.com/hc/en-us/articles/1500000368501-Slash-Commands-FAQ#:~:text=With%20Slash%20Commands%2C%20all%20you,using%20Slash%20Commands%20right%20now.)
 - Es un proyecto realizado en tiempo libre, puede ser optimizado.
 - Utilización de la API de discord.js y la api de google Sheets.
 
-##》》 Funcionalidades en discord:
+## 》》 Funcionalidades en discord:
 - [x] Slash Commands.
 - [x] Modmail.
 
@@ -48,7 +48,7 @@
 	⚠️ Es importante que el role sea asignable con los permisos del bot. [Discord Support Docs](https://support.discord.com/hc/es/articles/10388356626711-Conexiones-y-roles-vinculados-Admins#:~:text=Dir%C3%ADgete%20a%20Ajustes%20del%20canal,acceso%20al%20canal%20en%20cuesti%C3%B3n.)
 
 - [x] Comando _Status_ con la información de uso de los recursos y datos del sistema.
-#》 Datos de la implementación: 
+# 》 Datos de la implementación: 
 
 - [x] "discord.js": "^14.14.1",
 
