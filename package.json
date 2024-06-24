@@ -1,0 +1,19 @@
+{
+    "name": "ping-pong-discord.js",
+    "version": "1.0.0",
+    "description": "Un bot de discord",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Alejandro Fisac",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^14.14.1",
+        "fs": "^0.0.1-security",
+        "google-auth-library": "^9.5.0",
+        "google-spreadsheet": "^4.1.1",
+        "os": "^0.1.2",
+        "os-utils": "^0.0.14"
+    }
+}
